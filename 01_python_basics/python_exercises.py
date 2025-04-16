@@ -1,1 +1,0 @@
-# Ejercicios básicos de Python
