@@ -1,0 +1,8 @@
+id_ubicacion;nombre ;direccion;ciudad;caracteristicas;precio;aforo
+1;Parque A;CALLE 1;Madrid;N.A;4000;200
+2;Coliseo A;CALLE 2 ;Barcelona;N.A;3000;400
+3;Parque B;CALLE 3;Sevilla;N.A;2500;1000
+4;Coliseo B;CALLE 4;Madrid;N.A;2300;300
+5;Parque C;CALLE 5;Valencia;N.A;7000;2500
+6;Coliseo C;CALLE 6;Barcelona;N.A;10000;100
+7;Parque D;CALLE 7;Madrid;N.A;11000;50
